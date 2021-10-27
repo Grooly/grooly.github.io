@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CyberCopAndGirl",
+"productVersion": "0.1",
+"dataUrl": "CyberCopBuild_WEB.data.unityweb",
+"wasmCodeUrl": "CyberCopBuild_WEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "CyberCopBuild_WEB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.8f1"
+}
